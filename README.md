@@ -1,7 +1,7 @@
 # openvpn-install
 
 #bash
-curl -O https://github.com/pooyanazad/OVPN-p.git
+curl -O https://github.com/pooyanazad/OVPN-p/openvpn-install.sh
 chmod +x openvpn-install.sh
 
 Then run it :
