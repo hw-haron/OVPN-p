@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Secure OpenVPN server installer for Debian, Ubuntu, CentOS, Fedora and Arch Linux
+# Secure OpenVPN server installer for Debian, Ubuntu, CentOS, Fedora and Arch Linux 
 # github.com/pooyanazad
 
 function isRoot () {
