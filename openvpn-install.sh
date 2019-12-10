@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Secure OpenVPN server installer for Debian, Ubuntu, CentOS, Fedora and Arch Linux 
-# github.com/pooyanazad
+# github.com/pooyanazad 
 
 function isRoot () {
 	if [ "$EUID" -ne 0 ]; then
