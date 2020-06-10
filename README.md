@@ -1,14 +1,17 @@
 # Ovpn-install
 
+```
 #bash
 curl -O https://github.com/pooyanazad/OVPN-p/openvpn-install.sh
 chmod +x openvpn-install.sh
-
+```
 
 Then run it :
-#sh
-./openvpn-install.sh
+# sh
 
+```
+./openvpn-install.sh
+```
 
 You can see you current client in current directory
 
