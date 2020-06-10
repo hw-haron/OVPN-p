@@ -1,13 +1,11 @@
 # Ovpn-install
 
 ```
-#bash
 curl -O https://github.com/pooyanazad/OVPN-p/openvpn-install.sh
 chmod +x openvpn-install.sh
 ```
 
 Then run it :
-# sh
 
 ```
 ./openvpn-install.sh
